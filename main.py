@@ -12,7 +12,7 @@ class MyForm(FlaskForm):
 
 
 app = Flask(__name__)
-app.secret_key = "#pratzz326"
+app.secret_key = "____CAN BE ANY STRING YOU WANT_____"
 
 bootstrap = Bootstrap5(app)
 
